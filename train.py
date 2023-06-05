@@ -437,7 +437,7 @@ def train(hyp,  # path/to/hyp.yaml or hyp dictionary
     return results
 
 
-# 明天把这些模型都试试效果先，一波波给他训练完毕，找个公开的数据集测试一下。
+
 def parse_opt(known=False):
     parser = argparse.ArgumentParser()
     parser.add_argument('--weights', type=str, default=ROOT / 'pretrained/yolov5s.pt', help='initial weights path')

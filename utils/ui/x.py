@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-'''
-@Project ：yolov5-60 
-@File    ：x.py
-@Author  ：ChenmingSong
-@Date    ：2021/12/12 16:04 
-@Description：
-'''
 import cv2
 import sys
 # import DisplayUI

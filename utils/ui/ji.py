@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-Project Name: yolov5-60
-File Name: ji.py
-Author: chenming
-Create Date: 2021/11/18
-Description：
--------------------------------------------------
-"""
+
 import argparse
 import os
 os.chdir("/home/chenming/scm/xianyu/det/yolov5-60/yolov5-60")

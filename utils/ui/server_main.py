@@ -1,13 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-Project Name: yolov5-v1.0
-File Name: main.py
-Author: chenming
-Create Date: 2021/11/9
-Description：
--------------------------------------------------
-"""
+
 # 首先检查文件，把存在的目录删除
 import os
 os.chdir("/project/train/src_repo/")

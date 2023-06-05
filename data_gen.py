@@ -1,19 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
--------------------------------------------------
-Project Name: yolov5-jishi
-File Name: data_gen.py
-Author: chenming
-Create Date: 2021/11/8
-Description：
--------------------------------------------------
-"""
-# -*- coding: utf-8 -*-
-# @Time    : 20210610
-# @Author  : dejahu
-# @File    : gen_yolo_data.py
-# @Software: PyCharm
-# @Brief   : 生成测试、验证、训练的图片和标签
+
+
 
 import os
 import shutil
