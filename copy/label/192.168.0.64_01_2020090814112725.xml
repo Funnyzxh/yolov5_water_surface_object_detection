@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hxx1</folder>
+	<filename>192.168.0.64_01_2020090814112725.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\hxx\hxx1\192.168.0.64_01_2020090814112725.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1591</xmin>
+			<ymin>883</ymin>
+			<xmax>1917</xmax>
+			<ymax>924</ymax>
+		</bndbox>
+	</object>
+</annotation>

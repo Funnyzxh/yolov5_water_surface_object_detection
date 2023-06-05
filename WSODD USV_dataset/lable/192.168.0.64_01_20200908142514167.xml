@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zzw1</folder>
+	<filename>192.168.0.64_01_20200908142514167.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\data\third\zzw\zzw1\192.168.0.64_01_20200908142514167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1361</xmin>
+			<ymin>844</ymin>
+			<xmax>1407</xmax>
+			<ymax>864</ymax>
+		</bndbox>
+	</object>
+</annotation>

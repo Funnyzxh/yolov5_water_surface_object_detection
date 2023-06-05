@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sje1</folder>
+	<filename>192.168.0.64_01_20200727103255469.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\sje\sje1\192.168.0.64_01_20200727103255469.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>511</ymin>
+			<xmax>621</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1625</xmin>
+			<ymin>613</ymin>
+			<xmax>1797</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>

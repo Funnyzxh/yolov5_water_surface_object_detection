@@ -43,7 +43,7 @@ class MainWindow(QTabWidget):
         self.stopEvent = threading.Event()
         self.webcam = True
         self.stopEvent.clear()
-        self.model = self.model_load(weights="runs/train/20epoch/weights/best.pt",
+        self.model = self.model_load(weights="pretrained/yolov5m.pt",
                                      device=self.device)
         self.initUI()
         self.reset_vid()

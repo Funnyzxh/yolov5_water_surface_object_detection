@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hxx1</folder>
+	<filename>192.168.0.64_01_20200908132840371.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\data\third\hxxnew\hxx1\192.168.0.64_01_20200908132840371.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>820</ymin>
+			<xmax>1028</xmax>
+			<ymax>874</ymax>
+		</bndbox>
+	</object>
+</annotation>

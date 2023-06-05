@@ -1,0 +1,38 @@
+<annotation>
+	<folder>wyn1</folder>
+	<filename>192.168.0.64_01_20200725122624662.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\wyn\wyn1\192.168.0.64_01_20200725122624662.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1149</xmin>
+			<ymin>680</ymin>
+			<xmax>1552</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>711</ymin>
+			<xmax>969</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>

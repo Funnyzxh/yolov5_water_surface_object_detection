@@ -1,0 +1,38 @@
+<annotation>
+	<folder>cjw1</folder>
+	<filename>192.168.0.64_01_20200725102455958.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\cjw\cjw1\192.168.0.64_01_20200725102455958.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>503</ymin>
+			<xmax>566</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>643</xmin>
+			<ymin>626</ymin>
+			<xmax>663</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

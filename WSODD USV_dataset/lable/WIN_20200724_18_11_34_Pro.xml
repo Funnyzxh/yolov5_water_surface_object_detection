@@ -1,0 +1,38 @@
+<annotation>
+	<folder>wyn1</folder>
+	<filename>WIN_20200724_18_11_34_Pro.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\wyn\wyn1\WIN_20200724_18_11_34_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1291</xmin>
+			<ymin>1000</ymin>
+			<xmax>1381</xmax>
+			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1932</xmin>
+			<ymin>1010</ymin>
+			<xmax>2062</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>

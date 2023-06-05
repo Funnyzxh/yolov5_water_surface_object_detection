@@ -1,0 +1,38 @@
+<annotation>
+	<folder>zzw1</folder>
+	<filename>192.168.0.64_01_20200809093955652.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\zzw\zzw1\192.168.0.64_01_20200809093955652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>17</ymin>
+			<xmax>1913</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>986</xmin>
+			<ymin>484</ymin>
+			<xmax>1914</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

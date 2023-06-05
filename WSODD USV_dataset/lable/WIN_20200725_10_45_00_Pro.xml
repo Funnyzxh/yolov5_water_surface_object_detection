@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sje1</folder>
+	<filename>WIN_20200725_10_45_00_Pro.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\sje\sje1\WIN_20200725_10_45_00_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1836</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1923</xmin>
+			<ymin>597</ymin>
+			<xmax>2380</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1353</xmin>
+			<ymin>508</ymin>
+			<xmax>1549</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

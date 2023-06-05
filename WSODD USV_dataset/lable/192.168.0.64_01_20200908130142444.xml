@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dsf1</folder>
+	<filename>192.168.0.64_01_20200908130142444.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\dsf\dsf1\192.168.0.64_01_20200908130142444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>732</ymin>
+			<xmax>947</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>728</ymin>
+			<xmax>771</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hlj1</folder>
+	<filename>192.168.0.64_01_20200908125205885.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\data\second\hljnew\hlj1\192.168.0.64_01_20200908125205885.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>589</ymin>
+			<xmax>716</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

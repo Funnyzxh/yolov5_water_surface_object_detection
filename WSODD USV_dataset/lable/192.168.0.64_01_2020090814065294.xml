@@ -1,0 +1,38 @@
+<annotation>
+	<folder>hxx1</folder>
+	<filename>192.168.0.64_01_2020090814065294.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\hxx\hxx1\192.168.0.64_01_2020090814065294.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>858</ymin>
+			<xmax>303</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>860</ymin>
+			<xmax>717</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+</annotation>

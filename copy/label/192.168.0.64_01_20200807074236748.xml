@@ -1,0 +1,38 @@
+<annotation>
+	<folder>yjb3</folder>
+	<filename>192.168.0.64_01_20200807074236748.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\yjb\yjb3\192.168.0.64_01_20200807074236748.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mast</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>1</ymin>
+			<xmax>808</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>144</ymin>
+			<xmax>1439</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

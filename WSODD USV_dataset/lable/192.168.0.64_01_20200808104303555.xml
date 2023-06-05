@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lsq1</folder>
+	<filename>192.168.0.64_01_20200808104303555.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\lsq\lsq1\192.168.0.64_01_20200808104303555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>431</ymin>
+			<xmax>1511</xmax>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>hlj1</folder>
+	<filename>192.168.0.64_01_20200908141129946.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\data\third\hljnew\hlj1\192.168.0.64_01_20200908141129946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1403</xmin>
+			<ymin>889</ymin>
+			<xmax>1818</xmax>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+</annotation>

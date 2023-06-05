@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yjb1</folder>
+	<filename>20200731222105.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\yjb\yjb1\20200731222105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>640</ymin>
+			<xmax>1063</xmax>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+</annotation>

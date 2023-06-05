@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sje1</folder>
+	<filename>192.168.0.64_01_2020072710375267.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\sje\sje1\192.168.0.64_01_2020072710375267.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>harbor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>948</xmin>
+			<ymin>444</ymin>
+			<xmax>1259</xmax>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rubbish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1374</xmin>
+			<ymin>518</ymin>
+			<xmax>1410</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

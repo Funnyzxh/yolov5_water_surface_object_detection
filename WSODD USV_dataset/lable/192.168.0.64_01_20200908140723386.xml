@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>lsq1</folder>
+	<filename>192.168.0.64_01_20200908140723386.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\data\third\lsqnew\lsq1\192.168.0.64_01_20200908140723386.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>814</ymin>
+			<xmax>1034</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>

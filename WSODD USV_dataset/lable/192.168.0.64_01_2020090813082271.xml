@@ -1,0 +1,38 @@
+<annotation>
+	<folder>zzw3</folder>
+	<filename>192.168.0.64_01_2020090813082271.jpg</filename>
+	<path>C:\Users\51-9302\Desktop\oceanic dataset\zzw\zzw3\192.168.0.64_01_2020090813082271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bridge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>551</ymin>
+			<xmax>318</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>boat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>825</xmin>
+			<ymin>591</ymin>
+			<xmax>901</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+</annotation>
