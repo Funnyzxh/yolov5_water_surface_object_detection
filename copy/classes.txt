@@ -1,1 +1,0 @@
-["bridge", "ship", "boat", "ball", "rubbish", "rock", "buoy", "platform", "harbor", "mast", "tree", "animal", "grass", "person"]
